@@ -15,13 +15,8 @@
 
 .site-header {
   padding: 0;
-  margin: 0; 
+  margin: 0;
   border: none;
-}
-
-h1 {
-  color: #0489B1;
-  font-weight: bold;
 }
 
 h2 {
@@ -36,9 +31,34 @@ body {
   display: none;
 }
 
-/*Menu*/
-
-.menu {
-  background-color:black;
-  opacity:0.50;
+#page {
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
 }
+.col-full {
+  width: 1200px;
+}
+
+.menu-top-menu-container {
+  width: 800px;
+}
+
+site-search {
+  float :left;
+}
+ 
+/*#header {
+width: 700px; 
+height: 200px; 
+}
+ 
+#content {
+float: left; 
+width: 400px; 
+}
+ 
+#footer {
+width: 700px; 
+height: 200px; 
+}*/
