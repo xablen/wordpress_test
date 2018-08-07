@@ -1,0 +1,266 @@
+0000.004 (0) Opened log file at time: Tue, 07 Aug 2018 07:13:37 +0000 on http://127.0.0.1/_projet1
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.8 PHP: 5.6.30 (apache2handler, Windows NT DESKTOP-KCPLT2I 6.2 build 9200 (Windows 8 Home Premium Edition) i586) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 26.2M | 26.8M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 753072.5 MB
+0000.021 (0) Tasks: Backup files: 1 (schedule: every8hours) Backup DB:  (schedule: every8hours)
+0000.027 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.311 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1533583904, seconds_ago=42113)
+0000.322 (0) Set semaphore last lock (fd) time to 2018-08-07 07:13:37
+0000.326 (0) Semaphore lock (fd) complete
+0000.338 (0) Backup run: resumption=0, nonce=757417f5fa41, begun at=1533626017 (1s ago), job type=backup
+0000.346 (0) Scheduling a resumption (1) after 300 seconds (1533626318) in case this run gets aborted
+0000.831 (0) Checking if we have a zip executable available
+0000.846 (0) Creation of backups of directories: beginning
+0000.859 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0009.871 (0) Total entities for the zip file: 391 directories, 2759 files (0 skipped as non-modified), 44.5 MB
+0009.889 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0010.079 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 100 files added (on-disk size: 67.8 KB)
+0010.255 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 200 files added (on-disk size: 67.8 KB)
+0010.488 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 300 files added (on-disk size: 67.8 KB)
+0010.692 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 400 files added (on-disk size: 67.8 KB)
+0010.933 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 500 files added (on-disk size: 67.8 KB)
+0010.944 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 2759 files batched, 501 (502) added so far); re-opening (prior size: 67.8 KB)
+0013.830 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 600 files added (on-disk size: 1827 KB)
+0014.192 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 700 files added (on-disk size: 1827 KB)
+0014.404 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 800 files added (on-disk size: 1827 KB)
+0014.657 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 900 files added (on-disk size: 1827 KB)
+0014.882 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1000 files added (on-disk size: 1827 KB)
+0014.895 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17 MB, 2759 files batched, 501 (1003) added so far); re-opening (prior size: 1827 KB)
+0022.151 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1100 files added (on-disk size: 7066.9 KB)
+0023.258 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1200 files added (on-disk size: 7066.9 KB)
+0024.277 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1300 files added (on-disk size: 7066.9 KB)
+0024.330 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 303 (1306) files added so far); re-opening (prior size: 7066.9 KB)
+0026.921 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1400 files added (on-disk size: 8741.3 KB)
+0027.374 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1500 files added (on-disk size: 8741.3 KB)
+0027.829 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1600 files added (on-disk size: 8741.3 KB)
+0028.265 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1700 files added (on-disk size: 8741.3 KB)
+0028.672 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1800 files added (on-disk size: 8741.3 KB)
+0028.708 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 2759 files batched, 501 (1807) added so far); re-opening (prior size: 8741.3 KB)
+0032.328 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 1900 files added (on-disk size: 9684.3 KB)
+0033.023 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2000 files added (on-disk size: 9684.3 KB)
+0033.438 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2100 files added (on-disk size: 9684.3 KB)
+0033.877 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2200 files added (on-disk size: 9684.3 KB)
+0034.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 485 (2292) files added so far); re-opening (prior size: 9684.3 KB)
+0036.619 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2300 files added (on-disk size: 10258.9 KB)
+0036.959 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2400 files added (on-disk size: 10258.9 KB)
+0037.353 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2500 files added (on-disk size: 10258.9 KB)
+0037.735 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2600 files added (on-disk size: 10258.9 KB)
+0038.349 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip.tmp: 2700 files added (on-disk size: 10258.9 KB)
+0049.028 (0) Created plugins zip (0) - 13918.9 KB in 48.2 s (289 KB/s) (sha1: 2c88bb1206632606ed85fbf55fa7257af049f0f3, sha256: d5e334981df7abddc40a24ba6b3eacf79ca42d7307bffa825382eaea357e38f6)
+0049.037 (0) Beginning creation of dump of themes (split every: 400 MB)
+0049.527 (0) Total entities for the zip file: 55 directories, 286 files (0 skipped as non-modified), 6.1 MB
+0049.802 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0050.171 (0) Zip: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0052.851 (0) Created themes zip (0) - 4498.1 KB in 3.8 s (1182.1 KB/s) (sha1: e72598e3b438f92993e928bdf130949b5362026e, sha256: c12c01e84d7f11f179bd9595f961adbc849f88cf46f09c7f2a25bc42b82835ac)
+0052.862 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0052.866 (0) Looking for candidates to backup in: E:\Personnel\Dropbox\Xampp\_projet1/wp-content/uploads
+0052.870 (0) finding files: 2018: adding to list (1)
+0052.873 (0) finding files: so-css: adding to list (2)
+0052.876 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0052.958 (0) Total entities for the zip file: 3 directories, 33 files (0 skipped as non-modified), 3 MB
+0054.083 (0) Created uploads zip (0) - 3023.3 KB in 1.2 s (2525.5 KB/s) (sha1: 01505102cb889b8188ee6ef32555a9ebd6f3fed5, sha256: ad77ae7de499f345301c397374653882e9e528c3a4d680bba3e85fb105fcd096)
+0054.095 (0) Beginning backup of other directories found in the content directory (index: 0)
+0054.099 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0054.102 (0) Looking for candidates to backup in: E:\Personnel\Dropbox\Xampp\_projet1/wp-content
+0054.106 (0) finding files: index.php: adding to list (1)
+0054.109 (0) finding files: languages: adding to list (2)
+0054.113 (0) finding files: plugins: skipping: this is the plugins directory
+0054.116 (0) finding files: themes: skipping: this is the themes directory
+0054.119 (0) finding files: updraft: skipping: this is the updraft directory
+0054.122 (0) finding files: upgrade: skipping: excluded by options
+0054.125 (0) finding files: uploads: skipping: this is the uploads directory
+0054.253 (0) Total entities for the zip file: 3 directories, 27 files (0 skipped as non-modified), 2.8 MB
+0055.751 (0) Created others zip (0) - 823.1 KB in 1.6 s (509.4 KB/s) (sha1: 74d2e2936f3e07b8f4cda9395592460dc25aae3f, sha256: 6cd17645a2e5434a7e2ae8a44914a652f937d8e177fb8d68fa2ba4c8fe820734)
+0055.774 (0) Saving backup status to database (elements: 8)
+0055.805 (0) Beginning creation of database dump (WordPress DB)
+0055.841 (0) Table wp_options: Total expected rows (approximate): 239
+0055.922 (0) Table wp_options: Total rows added: 241 in 0.08 seconds
+0055.927 (0) Table wp_options: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_options.table.gz - 64.6 KB)
+0055.942 (0) Table wp_users: Total expected rows (approximate): 0
+0055.952 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0055.955 (0) Table wp_users: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_users.table.gz - 0.6 KB)
+0055.974 (0) Table wp_usermeta: Total expected rows (approximate): 24
+0055.987 (0) Table wp_usermeta: Total rows added: 26 in 0.01 seconds
+0055.991 (0) Table wp_usermeta: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_usermeta.table.gz - 1.5 KB)
+0056.013 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0056.022 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0056.026 (0) Table wp_commentmeta: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0056.051 (0) Table wp_comments: Total expected rows (approximate): 0
+0056.063 (0) Table wp_comments: Total rows added: 1 in 0.01 seconds
+0056.068 (0) Table wp_comments: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_comments.table.gz - 0.8 KB)
+0056.100 (0) Table wp_links: Total expected rows (approximate): 0
+0056.111 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0056.115 (0) Table wp_links: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_links.table.gz - 0.4 KB)
+0056.131 (0) Table wp_postmeta: Total expected rows (approximate): 204
+0056.152 (0) Table wp_postmeta: Total rows added: 211 in 0.02 seconds
+0056.157 (0) Table wp_postmeta: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_postmeta.table.gz - 3.7 KB)
+0056.174 (0) Table wp_posts: Total expected rows (approximate): 59
+0056.199 (0) Table wp_posts: Total rows added: 60 in 0.02 seconds
+0056.209 (0) Table wp_posts: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_posts.table.gz - 7.6 KB)
+0056.224 (0) Table wp_term_relationships: Total expected rows (approximate): 16
+0056.234 (0) Table wp_term_relationships: Total rows added: 17 in 0.01 seconds
+0056.237 (0) Table wp_term_relationships: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0056.250 (0) Table wp_term_taxonomy: Total expected rows (approximate): 3
+0056.258 (0) Table wp_term_taxonomy: Total rows added: 4 in 0.01 seconds
+0056.262 (0) Table wp_term_taxonomy: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0056.277 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0056.289 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0056.293 (0) Table wp_termmeta: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_termmeta.table.gz - 0.4 KB)
+0056.307 (0) Table wp_terms: Total expected rows (approximate): 3
+0056.317 (0) Table wp_terms: Total rows added: 4 in 0.01 seconds
+0056.321 (0) Table wp_terms: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_terms.table.gz - 0.5 KB)
+0056.336 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0056.346 (0) Table wp_yoast_seo_links: Total rows added: 1 in 0.01 seconds
+0056.350 (0) Table wp_yoast_seo_links: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0056.364 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 13
+0056.376 (0) Table wp_yoast_seo_meta: Total rows added: 14 in 0.01 seconds
+0056.379 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0056.393 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_options.table.gz (1/14): adding to final database dump
+0056.429 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_users.table.gz (2/14): adding to final database dump
+0056.433 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_usermeta.table.gz (3/14): adding to final database dump
+0056.438 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_commentmeta.table.gz (4/14): adding to final database dump
+0056.442 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_comments.table.gz (5/14): adding to final database dump
+0056.445 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_links.table.gz (6/14): adding to final database dump
+0056.449 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_postmeta.table.gz (7/14): adding to final database dump
+0056.456 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_posts.table.gz (8/14): adding to final database dump
+0056.464 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_term_relationships.table.gz (9/14): adding to final database dump
+0056.468 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_term_taxonomy.table.gz (10/14): adding to final database dump
+0056.472 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_termmeta.table.gz (11/14): adding to final database dump
+0056.475 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_terms.table.gz (12/14): adding to final database dump
+0056.478 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_yoast_seo_links.table.gz (13/14): adding to final database dump
+0056.483 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db-table-wp_yoast_seo_meta.table.gz (14/14): adding to final database dump
+0056.488 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz: finished writing out complete database file (72 KB)
+0056.508 (0) Total database tables backed up: 14 (backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz, size: 80405, sha256)
+0056.525 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0056.528 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0056.531 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0056.534 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip: others: This file has not yet been successfully uploaded: will queue
+0056.537 (0) backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz: db: This file has not yet been successfully uploaded: will queue
+0056.539 (0) Saving backup history. Total backup size: 21.8 MB
+0056.547 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0056.556 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0056.559 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-efd25bdfe82af0e40812cb01f9b386c7)
+0056.562 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0056.574 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0057.929 (0) Dropbox quota usage: used=110047.9 MB, total=1050880 MB, available=940832.1 MB
+0057.938 (0) Dropbox: Attempt to upload: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip to: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip
+0106.830 (0) Dropbox chunked upload: 7.4 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 1048576, 1024 KB)
+0182.955 (0) Dropbox chunked upload: 14.7 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 2097152, 1024 KB)
+0238.245 (0) Dropbox chunked upload: 22.1 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 3145728, 1024 KB)
+0282.201 (0) The time we have been running (282.2) is approaching the resumption interval (300) - increasing resumption interval to 313
+0282.208 (0) The scheduled resumption is within 45 seconds - will reschedule
+0282.214 (0) Rescheduling resumption 1: moving to 358 seconds from now (1533626657)
+0282.225 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 313 + 45 = 358
+0282.228 (0) Dropbox chunked upload: 29.4 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 4194304, 1024 KB)
+0300.817 (0) Dropbox chunked upload: 36.8 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 5242880, 1024 KB)
+0313.818 (0) Dropbox chunked upload: 44.1 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 6291456, 1024 KB)
+0326.626 (0) Dropbox chunked upload: 51.5 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 7340032, 1024 KB)
+0340.607 (0) The time we have been running (340.6) is approaching the resumption interval (358) - increasing resumption interval to 371
+0340.615 (0) Dropbox chunked upload: 58.9 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 8388608, 1024 KB)
+0352.520 (0) The time we have been running (352.5) is approaching the resumption interval (371) - increasing resumption interval to 383
+0352.527 (0) Dropbox chunked upload: 66.2 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 9437184, 1024 KB)
+0363.906 (0) The time we have been running (363.9) is approaching the resumption interval (383) - increasing resumption interval to 394
+0363.913 (0) Dropbox chunked upload: 73.6 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 10485760, 1024 KB)
+0376.778 (0) The time we have been running (376.8) is approaching the resumption interval (394) - increasing resumption interval to 407
+0376.786 (0) Dropbox chunked upload: 80.9 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 11534336, 1024 KB)
+0389.706 (0) The time we have been running (389.7) is approaching the resumption interval (407) - increasing resumption interval to 420
+0389.712 (0) Dropbox chunked upload: 88.3 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 12582912, 1024 KB)
+0401.862 (0) The time we have been running (401.8) is approaching the resumption interval (420) - increasing resumption interval to 432
+0401.869 (0) Dropbox chunked upload: 95.6 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 13631488, 1024 KB)
+0409.976 (0) The time we have been running (410) is approaching the resumption interval (432) - increasing resumption interval to 440
+0409.985 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAVr5qQ2Xq_8oUSA, 14252998, 1024 KB)
+0412.194 (0) Recording as successfully uploaded: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip (f78b5e6088707da6b9e577069729f8b0)
+0412.209 (0) Deleting local file: backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip: OK
+0412.212 (0) Dropbox: File upload success (backup_2018-08-07-0913_running_shoes_757417f5fa41-plugins.zip): 13918 KB in 354s (39 KB/s)
+0412.940 (0) Dropbox quota usage: used=110083.3 MB, total=1050880 MB, available=940796.7 MB
+0412.944 (0) Dropbox: Attempt to upload: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip to: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip
+0430.545 (0) The time we have been running (430.5) is approaching the resumption interval (440) - increasing resumption interval to 461
+0430.553 (0) Dropbox chunked upload: 22.8 % uploaded (AAAAAAAAVr8jSRl47Xulug, 1048576, 1024 KB)
+0448.497 (0) The time we have been running (448.5) is approaching the resumption interval (461) - increasing resumption interval to 479
+0448.504 (0) Dropbox chunked upload: 45.5 % uploaded (AAAAAAAAVr8jSRl47Xulug, 2097152, 1024 KB)
+0461.704 (0) The time we have been running (461.7) is approaching the resumption interval (479) - increasing resumption interval to 492
+0461.711 (0) Dropbox chunked upload: 68.3 % uploaded (AAAAAAAAVr8jSRl47Xulug, 3145728, 1024 KB)
+0473.796 (0) The time we have been running (473.8) is approaching the resumption interval (492) - increasing resumption interval to 504
+0473.803 (0) Dropbox chunked upload: 91.1 % uploaded (AAAAAAAAVr8jSRl47Xulug, 4194304, 1024 KB)
+0478.758 (0) The time we have been running (478.7) is approaching the resumption interval (504) - increasing resumption interval to 509
+0478.765 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAVr8jSRl47Xulug, 4606011, 1024 KB)
+0479.851 (0) Recording as successfully uploaded: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip (1f8abb82e522d566d9f4927556e52ab5)
+0479.863 (0) Deleting local file: backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip: OK
+0479.866 (0) Dropbox: File upload success (backup_2018-08-07-0913_running_shoes_757417f5fa41-themes.zip): 4498 KB in 66s (67 KB/s)
+0480.416 (0) Dropbox quota usage: used=110074.1 MB, total=1050880 MB, available=940805.9 MB
+0480.419 (0) Dropbox: Attempt to upload: backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip to: backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip
+0495.691 (0) The time we have been running (495.7) is approaching the resumption interval (509) - increasing resumption interval to 526
+0495.697 (0) Dropbox chunked upload: 33.9 % uploaded (AAAAAAAAVsA5vAqmVc1TdQ, 1048576, 1024 KB)
+0511.722 (0) The time we have been running (511.7) is approaching the resumption interval (526) - increasing resumption interval to 542
+0511.728 (0) Dropbox chunked upload: 67.7 % uploaded (AAAAAAAAVsA5vAqmVc1TdQ, 2097152, 1024 KB)
+0524.886 (0) The time we have been running (524.9) is approaching the resumption interval (542) - increasing resumption interval to 555
+0524.900 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAVsA5vAqmVc1TdQ, 3095832, 1024 KB)
+0527.416 (0) Recording as successfully uploaded: backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip (abef03ddf903945d64c289efc0d9f41e)
+0527.427 (0) Deleting local file: backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip: OK
+0527.429 (0) Dropbox: File upload success (backup_2018-08-07-0913_running_shoes_757417f5fa41-uploads.zip): 3023 KB in 47s (64 KB/s)
+0527.992 (0) Dropbox quota usage: used=110072.6 MB, total=1050880 MB, available=940807.4 MB
+0527.996 (0) Dropbox: Attempt to upload: backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip to: backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip
+0540.830 (0) The time we have been running (540.8) is approaching the resumption interval (555) - increasing resumption interval to 571
+0540.837 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAVsFFlJxUZ_AwQQ, 842863, 1024 KB)
+0542.262 (0) Recording as successfully uploaded: backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip (94874def85fa61ab30d2c283f9f4b928)
+0542.274 (0) Deleting local file: backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip: OK
+0542.277 (0) Dropbox: File upload success (backup_2018-08-07-0913_running_shoes_757417f5fa41-others.zip): 823 KB in 14s (57 KB/s)
+0543.913 (0) Dropbox quota usage: used=110070.5 MB, total=1050880 MB, available=940809.5 MB
+0543.919 (0) Dropbox: Attempt to upload: backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz to: backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz
+0547.281 (0) The time we have been running (547.3) is approaching the resumption interval (571) - increasing resumption interval to 578
+0547.288 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAVsLItYZVxxem0w, 80405, 1024 KB)
+0549.084 (0) Recording as successfully uploaded: backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz (90657bf8b93b81302dfa9fb3803c31a6)
+0549.094 (0) Deleting local file: backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz: OK
+0549.098 (0) Dropbox: File upload success (backup_2018-08-07-0913_running_shoes_757417f5fa41-db.gz): 78 KB in 5s (15 KB/s)
+0549.117 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0549.121 (0) Number of backup sets in history: 3; groups (db): 1
+0549.123 (0) Examining (for databases) backup set with group_id=0, nonce=757417f5fa41, datestamp=1533626017 (Aug 07 2018 07:13:37)
+0549.126 (0) This backup set is the backup set just made, so will not be deleted.
+0549.126 (0) Examining (for databases) backup set with group_id=0, nonce=8ecd6269ce8a, datestamp=1533583904 (Aug 06 2018 19:31:44)
+0549.126 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0549.129 (0) Examining (for databases) backup set with group_id=0, nonce=a2c77befdbff, datestamp=1533574439 (Aug 06 2018 16:53:59)
+0549.129 (0) 1533574439: db: this set includes a database (backup_2018-08-06-1853_running_shoes_a2c77befdbff-db.gz); db count is now 2
+0549.129 (0) 1533574439: db: over retain limit (2); will delete this database
+0549.129 (0) Delete file: backup_2018-08-06-1853_running_shoes_a2c77befdbff-db.gz, service=dropbox
+0549.134 (0) Dropbox: request deletion: backup_2018-08-06-1853_running_shoes_a2c77befdbff-db.gz
+0550.746 (0) Dropbox: delete succeeded
+0550.762 (0) The time we have been running (550.7) is approaching the resumption interval (578) - increasing resumption interval to 581
+0550.768 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0550.771 (0) Number of backup sets in history: 3; groups (files): 1
+0550.774 (0) Examining (for files) backup set with nonce=757417f5fa41, datestamp=1533626017 (Aug 07 2018 07:13:37)
+0550.774 (0) This backup set is the backup set just made, so will not be deleted.
+0550.778 (0) This backup set is the backup set just made, so will not be deleted.
+0550.778 (0) This backup set is the backup set just made, so will not be deleted.
+0550.779 (0) This backup set is the backup set just made, so will not be deleted.
+0550.779 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0550.782 (0) Examining (for files) backup set with nonce=8ecd6269ce8a, datestamp=1533583904 (Aug 06 2018 19:31:44)
+0550.782 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0550.783 (0) Examining (for files) backup set with nonce=a2c77befdbff, datestamp=1533574439 (Aug 06 2018 16:53:59)
+0550.783 (0) plugins: over retain limit (2); will delete this file entity
+0550.783 (0) themes: over retain limit (2); will delete this file entity
+0550.783 (0) uploads: over retain limit (2); will delete this file entity
+0550.783 (0) others: over retain limit (2); will delete this file entity
+0550.783 (0) Delete file: backup_2018-08-06-1853_running_shoes_a2c77befdbff-plugins.zip, service=dropbox
+0550.786 (0) Delete file: backup_2018-08-06-1853_running_shoes_a2c77befdbff-themes.zip, service=dropbox
+0550.789 (0) Delete file: backup_2018-08-06-1853_running_shoes_a2c77befdbff-uploads.zip, service=dropbox
+0550.793 (0) Delete file: backup_2018-08-06-1853_running_shoes_a2c77befdbff-others.zip, service=dropbox
+0550.796 (0) Dropbox: request deletion: backup_2018-08-06-1853_running_shoes_a2c77befdbff-plugins.zip
+0551.708 (0) Dropbox: delete succeeded
+0551.729 (0) Dropbox: request deletion: backup_2018-08-06-1853_running_shoes_a2c77befdbff-themes.zip
+0553.233 (0) Dropbox: delete succeeded
+0553.239 (0) Dropbox: request deletion: backup_2018-08-06-1853_running_shoes_a2c77befdbff-uploads.zip
+0554.303 (0) Dropbox: delete succeeded
+0554.307 (0) Dropbox: request deletion: backup_2018-08-06-1853_running_shoes_a2c77befdbff-others.zip
+0555.870 (0) Dropbox: delete succeeded
+0555.891 (0) The time we have been running (555.9) is approaching the resumption interval (581) - increasing resumption interval to 586
+0555.896 (0) This backup set is now empty; will remove from history
+0555.899 (0) Deleting log file (log.a2c77befdbff.txt)
+0555.902 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0555.912 (0) Resume backup (757417f5fa41, 0): finish run
+0555.920 (0) Decremented the semaphore (fd) by 1
+0555.924 (0) Semaphore (fd) unlocked
+0555.926 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0555.936 (0) The backup apparently succeeded and is now complete
+0555.939 (0) Fetching RSS news feed
+0557.004 (0) Fetched RSS news feed; result is a: SimplePie
+0557.077 (0) Sending email ('Fichiers et base de données (Sauvegarde complète)') report (attachments: 0, size: 0 KB) to: xavie...
+0558.136 (0) La sauvegarde a réussie. Elle est maintenant terminée.

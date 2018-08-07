@@ -1,0 +1,44 @@
+.page-id-32 {
+	background-image: url("http://127.0.0.1/_projet1/wp-content/uploads/2018/08/adventure-athlete-athletic-235922.jpg");
+  background-size: cover;
+}
+
+.site-header {
+  background-color: transparent;
+}
+
+.storefront-primary-navigation {
+  padding: 0;
+  margin: 0; 
+  border: none;
+}
+
+.site-header {
+  padding: 0;
+  margin: 0; 
+  border: none;
+}
+
+h1 {
+  color: #0489B1;
+  font-weight: bold;
+}
+
+h2 {
+ color: white; 
+}
+
+body { 
+ background-color: transparent;
+}
+
+.site-footer {
+  display: none;
+}
+
+/*Menu*/
+
+.menu {
+  background-color:black;
+  opacity:0.50;
+}

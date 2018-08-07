@@ -1,0 +1,26 @@
+0000.028 () Opened log file at time: Tue, 07 Aug 2018 15:53:16 +0000 on http://127.0.0.1/_projet1
+0000.028 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.8 PHP: 5.6.30 (apache2handler, Windows NT DESKTOP-KCPLT2I 6.2 build 9200 (Windows 8 Home Premium Edition) i586) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.029 () Free space on disk containing Updraft's temporary directory: 752443.6 MB
+0000.029 () Restore job started. Entities to restore: themes, uploads, others. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.090 () Requested file from remote service: dropbox: backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip
+0000.932 () backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip: local file is status: 0/4606011 bytes; requesting next 2097152 bytes
+0007.182 () backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip: local file is status: 2097152/4606011 bytes; requesting next 2097152 bytes
+0012.111 () backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip: local file is status: 4194304/4606011 bytes; requesting next 411707 bytes
+0014.054 () Entity: themes
+0014.054 () restore_backup(backup_file=backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip, type=themes, info=a:2:{s:4:"path";s:53:"E:\Personnel\Dropbox\Xampp\_projet1/wp-content/themes";s:11:"description";s:9:"Thèmes ";}, last_one=)
+0014.055 () Décompression de la sauvegarde… (backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip, 4.4 Mb)
+0014.960 () E:\Personnel\Dropbox\Xampp\_projet1/wp-content/updraft/themes-old: This directory already exists, and will be replaced
+0015.443 () Moving old data: filesystem method / updraft_dir is potentially possible
+0015.443 () E:/Personnel/Dropbox/Xampp/_projet1/wp-content/themes-old: This directory already exists, and will be replaced
+0015.446 () Moving old data: can potentially use wp_filesystem method / -old
+0015.446 () Déplacement des anciennes données sur le bas-côté...
+0015.448 () Top-level entities being moved: index.php
+0015.449 () Déplacement de la sauvegarde décompressée…
+0015.608 () Top-level entities being moved: index.php, storefront, twentyfifteen, twentyseventeen, twentysixteen
+0015.612 () PHP event: code E_WARNING: copy(): The first argument to copy() function cannot be a directory (line 243, E:\Personnel\Dropbox\Xampp\_projet1\wp-admin\includes\class-wp-filesystem-direct.php)
+0015.613 () Error message: Impossible de déplacer les fichiers à cet endroit. Vérifiez vos autorisations associées à ce fichier.
+0015.613 () Error data (move_failed): E:/Personnel/Dropbox/Xampp/_projet1/wp-content/upgrade/aada0e3e/themes/storefront -> E:/Personnel/Dropbox/Xampp/_projet1/wp-content/themes/storefront
+0015.617 () Restore failed...
+0015.617 () Error message: Impossible de déplacer les fichiers à cet endroit. Vérifiez vos autorisations associées à ce fichier.
+0015.617 () Error data (move_failed): E:/Personnel/Dropbox/Xampp/_projet1/wp-content/upgrade/aada0e3e/themes/storefront -> E:/Personnel/Dropbox/Xampp/_projet1/wp-content/themes/storefront
+0015.617 () Restore failed

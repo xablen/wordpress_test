@@ -1,0 +1,64 @@
+0000.050 () Opened log file at time: Tue, 07 Aug 2018 15:50:17 +0000 on http://127.0.0.1/_projet1
+0000.050 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.8 PHP: 5.6.30 (apache2handler, Windows NT DESKTOP-KCPLT2I 6.2 build 9200 (Windows 8 Home Premium Edition) i586) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.7M | 36.3M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.051 () Free space on disk containing Updraft's temporary directory: 752486.3 MB
+0000.055 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.227 () Entity: db
+0000.227 () restore_backup(backup_file=backup_2018-08-07-1142_running_shoes_7efd17ec8f84-db.gz, type=db, info=a:0:{}, last_one=)
+0000.229 () Décompression de la sauvegarde… (backup_2018-08-07-1142_running_shoes_7efd17ec8f84-db.gz, 0.1 Mb)
+0000.237 () Database successfully unpacked
+0000.240 () Restauration de la base de données (cela peut prendre du temps si votre site est volumineux - en cas de timeout (ce qui arrive si votre hébergeur limite vos ressources), vous devrez utiliser une autre méthode comme phpMyAdmin…
+0000.240 () Using direct MySQL access; value of use_mysqli is: 1
+0000.296 () Max packet size: 32 MB
+0000.296 () Entering maintenance mode
+0000.296 () Activation du mode maintenance&#8230;
+0000.301 () Backup of: http://127.0.0.1/_projet1
+0000.304 () Content URL: http://127.0.0.1/_projet1/wp-content
+0000.304 () Uploads URL: http://127.0.0.1/_projet1/wp-content/uploads
+0000.304 () Old table prefix: wp_
+0000.305 () Site information: multisite=0
+0000.308 () New table prefix: wp_
+0000.322 () Processing table (InnoDB): wp_options
+0000.499 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.525 () Processing table (InnoDB): wp_users
+0000.576 () Processing table (InnoDB): wp_usermeta
+0000.626 () Processing table (InnoDB): wp_commentmeta
+0000.666 () Processing table (InnoDB): wp_comments
+0000.706 () Processing table (InnoDB): wp_links
+0000.735 () Processing table (InnoDB): wp_postmeta
+0000.823 () Processing table (InnoDB): wp_posts
+0000.897 () Processing table (InnoDB): wp_term_relationships
+0000.933 () Processing table (InnoDB): wp_term_taxonomy
+0000.969 () Processing table (InnoDB): wp_termmeta
+0001.006 () Processing table (InnoDB): wp_terms
+0001.063 () Processing table (InnoDB): wp_yoast_seo_links
+0001.099 () Processing table (InnoDB): wp_yoast_seo_meta
+0001.122 () Unlocking database and leaving maintenance mode
+0001.122 () Désactivation du mode maintenance&#8230;
+0001.175 () Finished: lines processed: 48 in 0.93 seconds
+0001.177 () Nettoyage…
+0001.201 () Entity: plugins
+0001.201 () restore_backup(backup_file=backup_2018-08-07-1142_running_shoes_7efd17ec8f84-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:54:"E:\Personnel\Dropbox\Xampp\_projet1/wp-content/plugins";s:11:"description";s:10:"Extensions";}, last_one=)
+0001.202 () Décompression de la sauvegarde… (backup_2018-08-07-1142_running_shoes_7efd17ec8f84-plugins.zip, 13.6 Mb)
+0011.542 () Moving old data: filesystem method / updraft_dir is potentially possible
+0011.544 () Moving old data: can potentially use wp_filesystem method / -old
+0011.544 () Déplacement des anciennes données sur le bas-côté...
+0016.991 () Top-level entities being moved: akismet, hello.php, index.php, megamenu, pootle-page-builder, shortcodes-ultimate, siteorigin-panels, so-css, updraftplus, woocommerce, wordpress-seo
+0017.029 () Déplacement de la sauvegarde décompressée…
+0020.003 () Top-level entities being moved: akismet, hello.php, index.php, pootle-page-builder, shortcodes-ultimate, so-css, updraftplus, wordpress-seo
+0020.032 () Nettoyage…
+0020.040 () Entity: themes
+0020.040 () restore_backup(backup_file=backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip, type=themes, info=a:2:{s:4:"path";s:53:"E:\Personnel\Dropbox\Xampp\_projet1/wp-content/themes";s:11:"description";s:9:"Thèmes ";}, last_one=)
+0020.041 () Décompression de la sauvegarde… (backup_2018-08-07-1142_running_shoes_7efd17ec8f84-themes.zip, 4.4 Mb)
+0020.581 () Moving old data: filesystem method / updraft_dir is potentially possible
+0020.582 () Moving old data: can potentially use wp_filesystem method / -old
+0020.582 () Déplacement des anciennes données sur le bas-côté...
+0020.824 () Top-level entities being moved: index.php, storefront, twentyfifteen, twentyseventeen, twentysixteen
+0020.835 () Déplacement de la sauvegarde décompressée…
+0021.014 () Top-level entities being moved: index.php, storefront, twentyfifteen, twentyseventeen, twentysixteen
+0021.019 () PHP event: code E_WARNING: copy(): The first argument to copy() function cannot be a directory (line 243, E:\Personnel\Dropbox\Xampp\_projet1\wp-admin\includes\class-wp-filesystem-direct.php)
+0021.021 () Error message: Impossible de déplacer les fichiers à cet endroit. Vérifiez vos autorisations associées à ce fichier.
+0021.021 () Error data (move_failed): E:/Personnel/Dropbox/Xampp/_projet1/wp-content/upgrade/aada0e3e/themes/storefront -> E:/Personnel/Dropbox/Xampp/_projet1/wp-content/themes/storefront
+0021.024 () Restore failed...
+0021.024 () Error message: Impossible de déplacer les fichiers à cet endroit. Vérifiez vos autorisations associées à ce fichier.
+0021.024 () Error data (move_failed): E:/Personnel/Dropbox/Xampp/_projet1/wp-content/upgrade/aada0e3e/themes/storefront -> E:/Personnel/Dropbox/Xampp/_projet1/wp-content/themes/storefront
+0021.024 () Restore failed
