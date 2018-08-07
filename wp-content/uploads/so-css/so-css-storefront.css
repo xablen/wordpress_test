@@ -47,6 +47,10 @@ body {
 site-search {
   float :left;
 }
+
+.woocommerce-active .site-header .site-search {
+   margin-right: 100px;
+}
  
 /*#header {
 width: 700px; 
