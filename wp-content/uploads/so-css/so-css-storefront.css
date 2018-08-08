@@ -66,3 +66,13 @@ width: 400px;
 width: 700px; 
 height: 200px; 
 }*/
+
+/* Modification menu passage souris */
+
+.main-navigation ul.nav-menu ul li > a {
+   background-color: #046380;
+    }
+
+.main-navigation ul.nav-menu ul li:hover > a {
+   background-color: #010101;
+}
